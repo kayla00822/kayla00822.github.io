@@ -12,6 +12,10 @@
 }
 ._形状 {
 }
+._图片_ {
+}
+._图片_1 {
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
@@ -60,5 +64,39 @@
   color:#999999;
 }
 ._表单禁用 {
+}
+._流程形状 {
+}
+._线段 {
+}
+._流程形状1 {
+}
+.label {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.shape {
+}
+.image {
+}
+.box_1 {
+}
+.icon {
+}
+.menu_item {
+}
+.box_2 {
+}
+.box_21 {
+}
+.box_11 {
+}
+.ellipse {
+}
+.line {
 }
 textarea, select, input, button { outline: none; }
