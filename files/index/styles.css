@@ -21,20 +21,13 @@
   position:fixed;
   left:0px;
   top:0px;
-  width:1674px;
-  height:73px;
 }
 #u0_state0 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
   width:1674px;
-  height:73px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
+  height:72px;
   background-color:rgba(255, 255, 255, 1);
   background-image:none;
   border:none;
@@ -774,24 +767,16 @@
   text-transform:none;
 }
 #u10 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:76px;
-  width:1674px;
-  height:758px;
 }
 #u10_state0 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
   width:1674px;
   height:758px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-color:rgba(243, 241, 247, 1);
   background-image:none;
   border:none;
@@ -1596,16 +1581,11 @@
   visibility:hidden;
 }
 #u10_state1 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:1674px;
-  height:758px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
+  width:1518px;
+  height:631px;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -2715,16 +2695,11 @@
   visibility:hidden;
 }
 #u10_state2 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:1674px;
-  height:758px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
+  width:0px;
+  height:0px;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -2742,16 +2717,11 @@
   height:1px;
 }
 #u10_state3 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:1674px;
-  height:758px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
+  width:713px;
+  height:212px;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -2805,16 +2775,11 @@
   text-transform:none;
 }
 #u10_state4 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:1674px;
-  height:758px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
+  width:0px;
+  height:0px;
   background-image:none;
   border:none;
   border-radius:0px;
