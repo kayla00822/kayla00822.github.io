@@ -60,6 +60,13 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 ._表单提示 {
   color:#999999;
 }
@@ -224,5 +231,13 @@
   font-weight:650;
   font-style:normal;
   font-size:15px;
+}
+.icon3 {
+}
+.box_13 {
+}
+.label3 {
+  font-size:14px;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
